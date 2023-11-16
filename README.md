@@ -5,8 +5,8 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 ## Install
 
-    $ git clone https://github.com/AnkitNayan83/Forum-app-server
-    $ cd Forum-app-server
+    $ git clone https://github.com/AnkitNayan83/greenie_assignment.git
+    $ cd greenie_assignment
     $ npm install or yarn install
 
 
