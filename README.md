@@ -2,6 +2,14 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 ## Getting Started
 
+
+## Install
+
+    $ git clone https://github.com/AnkitNayan83/Forum-app-server
+    $ cd Forum-app-server
+    $ npm install or yarn install
+
+
 First, run the development server:
 
 ```bash
