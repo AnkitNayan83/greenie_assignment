@@ -52,7 +52,7 @@ const UserList = () => {
         <div className="flex flex-col items-center relative overflow-hidden h-[100%]">
             {user && show && <Usercard user={user} setShow={setShow} />}
             <div className="flex items-center justify-between my-12 w-[80%]">
-                <h1 className="text-white text-2xl font-mono">User's List:</h1>
+                <h1 className="text-white text-2xl font-mono">User&apos; List:</h1>
                 <div className="flex items-center gap-5">
                     <input
                         type="text"
