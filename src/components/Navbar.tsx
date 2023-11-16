@@ -16,7 +16,7 @@ const Navbar = () => {
             <h1 className="text-2xl font-bold text-white">Admin Panel</h1>
             <div className="flex items-center gap-6 text-white">
                 <span className="text-xl capitalize">{user?.username}</span>
-                <span className="text-xl" onClick={handelLogout}>
+                <span className="text-xl cursor-pointer" onClick={handelLogout}>
                     logout
                 </span>
             </div>

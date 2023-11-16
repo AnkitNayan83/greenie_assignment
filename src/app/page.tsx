@@ -4,10 +4,10 @@ import UserList from "@/components/UserList";
 
 export default function Home() {
     return (
-        <div className="h-[100vh] bg-[#333]">
+        <div className="h-[100vh] bg-[#333] flex flex-col ">
             <Navbar />
             <UserList />
-            {/* <Footer /> */}
+            <Footer />
         </div>
     );
 }
